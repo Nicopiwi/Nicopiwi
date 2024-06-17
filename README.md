@@ -30,7 +30,3 @@ Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant 
 
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects or just chat about Data Science and Technology!
-
----
-
-Happy coding! 😄
