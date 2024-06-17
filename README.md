@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nico (or Piwi if you want)
 
-Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant at Universidad de Buenos Aires. With 3 years of experience as a Full Stack Developer, I'm passionate about the intersection of technology and science. Here's a bit about me and what I'm up to:
+Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant at Universidad de Buenos Aires. With 3 years of experience as a Full Stack Developer, I'm passionate about the intersection of technology, computer science, math and neuroscience. Here's a bit about me and what I'm up to:
 
 ## 🧠 About Me
 
@@ -16,11 +16,12 @@ Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant 
 
 ## 📊 Skills
 
-- **Programming Languages**: Python, JavaScript, R
-- **Frameworks & Libraries**: React, Node.js, TensorFlow, PyTorch
+- **Programming Languages**: Python, JavaScript, R, Julia, C++
+- **Frameworks & Libraries**: React, Node.js, PyTorch
 - **Tools**: Git, Docker, Jupyter Notebooks
-- **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
-- **Database Management**: PostgreSQL, MySQL
+- **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib
+- **Neuroscience**: MNE, Junifer
+- **Database Management**: PostgreSQL, MySQL, MongoDB
 
 
 ## 📫 Get in Touch
