@@ -22,19 +22,6 @@ Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant 
 - **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Database Management**: PostgreSQL, MySQL
 
-## 💡 Fun Facts & Nerd Jokes
-
-- Why don't data scientists trust atoms?  
-  **Because they make up everything!** 🤓
-
-- Why did the neural network go to therapy?  
-  **It had too many layers!** 🧠
-
-- What's a statistician's favorite type of music?  
-  **Heavy-tailed distributions!** 📊🎶
-
-- Why was the JavaScript developer sad?  
-  **Because he didn't know how to `null` his feelings.** 😢
 
 ## 📫 Get in Touch
 
