@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a Data Science student and Teaching Assistant 
 ## 🧠 About Me
 
 - 🎓 **Student and TA** at **Universidad de Buenos Aires**.
-- 💻 **Full Stack Developer** with 3 years of experience
 - 📚 Passionate about:
   - **Computational Neuroscience**
   - **Machine Learning and Deep Learning**
